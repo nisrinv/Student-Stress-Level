@@ -1,0 +1,2 @@
+# Student-Stress-Level
+The objective of this project is to analyze the root causes contributing to student stress by examining key areas such as psychological, physiological, environmental, academic, and social factors. Additionally, a predictive model is developed using the K-Nearest Neighbors (KNN) algorithm to classify students' stress levels based on these factors, providing valuable insights into how different aspects of student life impact their mental well-being.
